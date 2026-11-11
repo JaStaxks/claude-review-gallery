@@ -1,0 +1,11 @@
+{
+  "name": "review-gallery",
+  "version": "0.1.0",
+  "description": "Side pane listing every image, video and visual Claude sent you to review in this session",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "JaStaxks"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/JaStaxks/claude-review-gallery"
+}

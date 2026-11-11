@@ -1,0 +1,11 @@
+{
+  "name": "claude-review-gallery",
+  "owner": { "name": "JaStaxks" },
+  "plugins": [
+    {
+      "name": "review-gallery",
+      "source": "./",
+      "description": "Side pane listing every image, video and visual Claude sent you to review in the session"
+    }
+  ]
+}
